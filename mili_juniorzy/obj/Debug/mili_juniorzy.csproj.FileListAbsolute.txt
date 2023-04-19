@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\mili_juniorzy\bin\Debug\mili_juniorzy.exe.config
+C:\Users\student\Desktop\mili_juniorzy\bin\Debug\mili_juniorzy.exe
+C:\Users\student\Desktop\mili_juniorzy\bin\Debug\mili_juniorzy.pdb
+C:\Users\student\Desktop\mili_juniorzy\obj\Debug\mili_juniorzy.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\mili_juniorzy\obj\Debug\mili_juniorzy.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\mili_juniorzy\obj\Debug\mili_juniorzy.Form1.resources
+C:\Users\student\Desktop\mili_juniorzy\obj\Debug\mili_juniorzy.Properties.Resources.resources
+C:\Users\student\Desktop\mili_juniorzy\obj\Debug\mili_juniorzy.csproj.GenerateResource.cache
+C:\Users\student\Desktop\mili_juniorzy\obj\Debug\mili_juniorzy.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\mili_juniorzy\obj\Debug\mili_juniorzy.exe
+C:\Users\student\Desktop\mili_juniorzy\obj\Debug\mili_juniorzy.pdb
